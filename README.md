@@ -1,1 +1,1 @@
-# AI Summarizing Web App
+# AI Summarizing Web
