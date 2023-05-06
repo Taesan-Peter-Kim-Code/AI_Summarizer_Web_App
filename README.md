@@ -1,3 +1,3 @@
 # AI Summarizing Web
 
-![My Image](../ai_summarizer/public/images/1.png)
+![My Image](../images/1.png)
